@@ -35,6 +35,7 @@ Projects listed with live demos — no source code published for security reason
 | [tma-auth-nextjs](https://github.com/napalen0/tma-auth-nextjs) | Telegram Mini App authentication for Next.js — initData validation, JWT sessions | Next.js • TypeScript • React |
 | [vpn-bot](https://github.com/napalen0/vpn-bot) | Telegram VPN bot with VLESS+Reality, multi-server management, crypto payments | Python • FastAPI • Aiogram 3 • Xray-core |
 | [tg-autobackup](https://github.com/napalen0/tg-autobackup) | Automatic server backups to Telegram — databases, source, configs | Bash • PostgreSQL |
+| [473studio](https://github.com/napalen0/473studio) | Multilingual full-stack portfolio landing page — dark mode, i18n, responsive | HTML • CSS • JavaScript |
 
 ### 💻 Tech Stack
 
