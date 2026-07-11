@@ -24,6 +24,7 @@ Projects listed with live demos — no source code published for security reason
 | 01 | **RUNA** | Cyber club network platform — zone configurator, franchise system, Telegram review bot | Python • FastAPI • Aiogram 3 • React • SQLite | [runavrn.ru](https://runavrn.ru) |
 | 02 | **US?** | Street wear e-commerce with Telegram Web App, admin panel, JWT auth, WebSocket support chats | Next.js 16 • React 19 • TypeScript • Fastify • PostgreSQL • Prisma | [yesus.in](https://yesus.in) |
 | 03 | **SlitherCash** | Real-time multiplayer snake arena — server-authoritative 60Hz physics, client prediction, Telegram Mini App, collectible skins, admin panel | Next.js • TypeScript • Socket.IO • Node.js • PostgreSQL • Prisma • Canvas | [slithercash.fun](https://slithercash.fun) |
+| 04 | **RKN Spotter VPN** | Telegram VPN bot — VLESS+Reality (invisible to DPI), split-tunneling, server auto-provisioning, crypto payments | Python • FastAPI • Aiogram 3 • Xray-core • SQLite | [t.me/rknspotter_bot](https://t.me/rknspotter_bot) |
 
 ### 🔓 Open Source
 
