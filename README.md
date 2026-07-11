@@ -19,6 +19,7 @@
 | [**tma-auth-nextjs**](https://github.com/napalen0/tma-auth-nextjs) | Telegram Mini App auth for Next.js — initData HMAC validation, JWT sessions, channel membership | `npm i napalen0/tma-auth-nextjs` |
 | [**tg-autobackup**](https://github.com/napalen0/tg-autobackup) | Automatic server backups to Telegram — PostgreSQL, source dirs, system configs. Sends only when content changes | `curl -fsSL .../install.sh \| bash` |
 | [**473studio**](https://github.com/napalen0/473studio) | Multilingual portfolio landing page with animated hero | [Live](https://473studio.ru) |
+| [**vpn-bot**](https://github.com/napalen0/vpn-bot) | Telegram VPN service on VLESS + Reality (multi-server, split-tunnel, crypto payments, admin panel) | `git clone https://github.com/napalen0/vpn-bot.git` |
 
 ---
 
@@ -29,6 +30,7 @@
 | **SlitherCash** | Real-time multiplayer snake arena — 60Hz server physics, client prediction, collectible skins, Telegram Mini App | Next.js, Socket.IO, PostgreSQL, Canvas | [slithercash.fun](https://slithercash.fun) |
 | **RUNA** | Cyber club network — zone configurator, franchise system, Telegram review bot | Python, FastAPI, Aiogram 3, React | [runavrn.ru](https://runavrn.ru) |
 | **US?** | Street wear e-commerce with Telegram Web App, admin panel, live support chat | Next.js 16, Fastify, PostgreSQL, Prisma | [yesus.in](https://yesus.in) |
+| **RKN Spotter VPN** | Telegram VPN bot — one-tap VLESS + Reality access with split-tunnel routing and auto-provisioning | Python, FastAPI, aiogram 3, Xray-core, SQLite | [@rknspotter_bot](https://t.me/rknspotter_bot) |
 
 ---
 
