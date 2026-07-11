@@ -3,10 +3,6 @@ README for github.com/473studio profile
 Projects listed with live demos — no source code published for security reasons.
 -->
 
-<div align="center">
-  <img src="https://473studio.ru/og-image.png" width="120" alt="473studio" />
-</div>
-
 <h1 align="center">473studio</h1>
 
 <p align="center">
